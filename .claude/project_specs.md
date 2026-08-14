@@ -1,4 +1,4 @@
-# Sequoia-PySDK — specs Remote: `git@github.com:SiliconCentric/Sequoia-PySDK.git`
+# Sequoia-PySDK — specs Remote: `git@github.com:soccentric-sequoia/Sequoia-PySDK.git`
 Stack: Python, uv-managed, src layout. Consumes the `HalService` gRPC endpoint exposed by Sequoia-Client — the same wire contract
 Sequoia-Server speaks. ## Layout * `sequoia-sdk/` — everything: source, tooling, docs, examples, the make workflow (setup/ gen/ check/ build).
 * `sequoia-sdk/src/sequoia_sdk/` — the package. Import name `sequoia_sdk`, distribution name `sequoia-sdk`.
